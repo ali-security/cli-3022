@@ -1,5 +1,13 @@
 # Changelog
 
+## [11.7.0](https://github.com/npm/cli/compare/v11.6.4...v11.7.0) (2025-11-26)
+### Features
+* [`b380d15`](https://github.com/npm/cli/commit/b380d155050be21a9ee5ce08d50e184c06a13f36) [#8697](https://github.com/npm/cli/pull/8697) add deduping to notices unless in verbose+ mode (@owlstronaut)
+### Bug Fixes
+* [`0c0faae`](https://github.com/npm/cli/commit/0c0faae91d47fe1303de77aae7c6b38709972d2f) [#8780](https://github.com/npm/cli/pull/8780) adduser: improve email prompt (#8780) (@mbtools)
+### Documentation
+* [`4a32606`](https://github.com/npm/cli/commit/4a32606ff50c71309455a0e3324d5ca90c1bbecc) [#8785](https://github.com/npm/cli/pull/8785) updates the token create documentation (#8785) (@owlstronaut, @wraithgar)
+
 ## [11.6.4](https://github.com/npm/cli/compare/v11.6.3...v11.6.4) (2025-11-25)
 ### Documentation
 * [`dfb83c7`](https://github.com/npm/cli/commit/dfb83c7887810abd555a2ab62a681858aabe2430) [#8749](https://github.com/npm/cli/pull/8749) add example for keywords field (#8749) (@MaxBlack-dev, Max Black)
